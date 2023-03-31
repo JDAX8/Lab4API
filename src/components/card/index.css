@@ -1,0 +1,28 @@
+.name{
+    font-size: 50px;
+    color: #74cf2a;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    border-radius: 15%;
+}
+.all{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+.letra{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #74cf2a;
+    font-size: 180%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
